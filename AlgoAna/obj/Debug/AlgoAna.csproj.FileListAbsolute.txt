@@ -1,0 +1,9 @@
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\bin\Debug\AlgoAna.exe.config
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\bin\Debug\AlgoAna.exe
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\bin\Debug\AlgoAna.pdb
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\obj\Debug\AlgoAna.csprojResolveAssemblyReference.cache
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\obj\Debug\AlgoAna.Form1.resources
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\obj\Debug\AlgoAna.Properties.Resources.resources
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\obj\Debug\AlgoAna.csproj.GenerateResource.Cache
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\obj\Debug\AlgoAna.exe
+C:\Users\INGENIO\Documents\Visual Studio 2012\Projects\AlgoAna\AlgoAna\obj\Debug\AlgoAna.pdb
